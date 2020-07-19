@@ -96,6 +96,7 @@ const styles = StyleSheet.create({
         marginTop: 5,
         borderRadius: 5,
         height: 35,
+        textAlign: 'center',
     },
     botaoContainer:{
         marginBottom: 5,
